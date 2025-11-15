@@ -1,0 +1,1 @@
+Este archivo contiene la programación en lenguaje java, donde se trabaja la implementación de patrones de diseño de software, trata sobre el análisis de secuencias de ADN, subiendo un archivo de formato FASTA, generando un reporte en un archivo csv por los análisis generados durante su ejecución
